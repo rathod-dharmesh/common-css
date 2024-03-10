@@ -1,0 +1,1357 @@
+// .container {
+//     width: 100% !important;
+// }
+
+// .item-card-title {
+//     font-size: 1rem;
+// }
+
+// .show-items {
+//     display: block;
+// }
+
+// .hide-items {
+//     display: none;
+// }
+
+// .flex-container-div {
+//     display: flex;
+// }
+
+// .flex-margin-left {
+//     margin-left: auto;
+// }
+
+// .card .card {
+//     margin: 5px 0 !important;
+//     box-shadow: -8px 8px 14px 0 rgba(47, 47, 30, 0.5) !important;
+// }
+
+// .received-card {
+// }
+
+// .accepted-card {
+// }
+
+// .order-header {
+//     background-color: #e6e6e6;
+// }
+
+// .btn-primary-custom {
+//     background-color: #b387ff !important;
+//     border-color: #b387ff !important;
+// }
+
+// .match-height {
+//     margin-top: 2%;
+// }
+
+// .catelog-name {
+//     top: 0 !important;
+// }
+
+// //.......................New Css...........................
+
+// .backimg {
+//     padding: 0;
+//     position: absolute;
+//     height: 100vh;
+//     width: 100%;
+//     background: #00267B;
+// }
+
+// .container-fluid {
+//     height: 100vh;
+//     position: absolute;
+
+//     img {
+//         padding-top: 180px;
+//     }
+// }
+
+// .header {
+//     height: 12vh;
+//     background: #00267B;
+
+//     .title {
+//         border-radius: 24px;
+//         border: 3px solid #D9D9D9;
+//         color: #FFF;
+//         font-family: Mitr;
+//         font-size: 25px;
+//         font-style: normal;
+//         font-weight: 600;
+//         line-height: normal;
+//         height: auto;
+//         text-align-last: center;
+//         padding: 10px;
+//         margin: 20px;
+//         width: 13vw;
+//     }
+
+//     .nextBtn {
+//         border-radius: 12px;
+//         background: #FFF;
+//         color: #1560BD;
+//         font-family: Mitr;
+//         font-size: 19px;
+//         font-style: normal;
+//         font-weight: 600;
+//         line-height: normal;
+//         height: auto;
+//         padding: 6px;
+//         margin: 15px;
+//         width: 9rem;
+//     }
+
+//     .updateBtn {
+//         border-radius: 12px;
+//         background: rgba(42, 107, 188, 0.90);
+//         color: #FFF;
+//         font-family: Mitr;
+//         font-size: 20px;
+//         font-style: normal;
+//         font-weight: 600;
+//         line-height: normal;
+//         height: auto;
+//         padding: 12px;
+//         margin: 6px;
+//         width: 12rem;
+//     }
+
+//     .lockBtn {
+//         border-radius: 11px;
+//         background: linear-gradient(0deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%), rgba(204, 123, 0, 0.90);
+//         font-size: 10px;
+//         fill: #fff;
+//         width: 5rem !important;
+//     }
+
+//     .logoutBtn {
+//         //background: url('assets/images/Logout.png');
+//         border-radius: 11px;
+//         background: linear-gradient(0deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.15) 100%), #A00000;
+//         font-size: 10px;
+//         fill: #fff;
+//         width: 5rem !important;
+//     }
+// }
+
+// .content {
+//     background: #D9D9D9;
+//     height: 81vh;
+//     margin-bottom: 5px;
+//     overflow: auto;
+// }
+
+// .upBtn {
+//     border-radius: 19px;
+//     height: auto;
+//     border: 3px solid #1560BD;
+//     background: #FFF;
+//     width: 80.69%;
+//     margin-top: 20px;
+//     text-align: center;
+//     padding: 5px;
+//     margin-bottom: 5px;
+// }
+
+// .card {
+//     border-radius: 19px;
+//     background: #FFF;
+//     width: 21rem;
+//     height: auto;
+//     margin: 10px !important;
+
+//     .dataI {
+//         img {
+//             padding: 16px 16px 10px 16px !important;
+//             height: 180px;
+//             width: 300px;
+//             border-radius: 14px;
+//         }
+
+//         label {
+//             color: #1560BD;
+//             font-family: Mitr;
+//             font-size: 20px;
+//             font-style: normal;
+//             font-weight: 600;
+//             line-height: normal;
+//         }
+//     }
+// }
+
+// .card1 {
+//     padding: 0px !important;
+//     text-align: -webkit-center;
+//     margin-left: 0;
+// }
+
+// span {
+//     color: #FFF;
+//     font-family: Mitr;
+//     font-size: 17px;
+//     font-style: normal;
+//     font-weight: 600;
+//     line-height: normal;
+//     margin-left: 5rem;
+// }
+
+// .mr {
+//     margin-right: 30px;
+//     padding: 0;
+// }
+
+// .footer {
+//     background-color: #00267b  !important;
+// }
+
+
+// @media (min-width: 768px) and (max-width: 992px) {
+//     .header .updateBtn {
+//         font-size: 12px;
+//         height: auto;
+//         padding: 7px;
+//         margin: 0px 6px 0px 6px;
+//         width: 7.5rem;
+//     }
+
+//     .upBtn {
+//         height: auto;
+//         margin-top: 20px;
+//         padding: 5px;
+//         width: 93vw;
+//     }
+
+//     .card {
+//         width: 20rem;
+//         height: 14.5rem;
+//     }
+
+//     .excol {
+//         width: 0;
+//     }
+
+//     .header .title {
+//         font-size: 20px;
+//         height: 70px;
+//         padding: 15px;
+//         margin: 20px;
+//         width: 96px;
+//     }
+
+//     .header .nextBtn {
+//         font-size: 18px;
+//         margin: 7px;
+//     }
+
+//     .content {
+//         height: 37.9vh;
+//         overflow: auto;
+//     }
+
+//     .footer span {
+//         font-size: 12px;
+//         margin-left: 0rem;
+//     }
+
+//     .mr {
+//         margin-right: 25px;
+//     }
+
+//     .footer {
+//         background-color: transparent !important;
+//         position: sticky;
+//     }
+// }
+
+// @media (min-width: 993px) and (max-width: 1024px) {
+//     .header .updateBtn {
+//         font-size: 17px;
+//         height: auto;
+//         padding: 8px;
+//         margin: 4px;
+//         width: 10rem;
+//     }
+
+//     .upBtn {
+//         height: auto;
+//         margin-top: 20px;
+//         padding: 5px;
+//     }
+
+//     .card {
+//         width: 16rem;
+//         height: auto;
+//     }
+
+//     .card .dataI img {
+//         height: 180px;
+//         width: 241px;
+//     }
+
+//     .excol {
+//         width: 0;
+//     }
+
+//     .header .title {
+//         font-size: 20px;
+//         height: 70px;
+//         padding: 15px;
+//         margin: 20px;
+//         width: 96px;
+//     }
+
+//     .header .nextBtn {
+//         padding: 9px;
+//         font-size: 18px;
+//         margin: 5px;
+//         width: 13rem;
+//         margin-left: -20px;
+//     }
+
+//     .header .lockBtn {
+//         width: 5rem !important;
+//         margin-right: 30px !important;
+//     }
+
+//     .content {
+//         height: 65vh;
+//         overflow: auto;
+//     }
+
+//     .footer span {
+//         font-size: 12px;
+//         margin-left: 0rem;
+//     }
+
+//     .footer {
+//         background-color: transparent !important;
+//         position: sticky;
+//     }
+// }
+
+// @media (min-width: 1025px) and (max-width: 1280px) {
+//     .header .updateBtn {
+//         font-size: 20px;
+//         height: auto;
+//         padding: 5px;
+//         margin: 4px;
+//         width: 12rem;
+//     }
+
+//     .excol {
+//         width: 16%;
+//     }
+
+//     .header .title {
+//         font-size: 26px;
+//         height: 70px;
+//         padding: 16px;
+//         margin: 20px;
+//         width: 180px;
+//     }
+
+//     .header .nextBtn {
+//         font-size: 18px;
+//         width: 9rem;
+//     }
+
+//     .upBtn {
+//         height: auto;
+//         margin-top: 0;
+//         padding: 5px;
+//         align-self: center;
+//     }
+
+//     .card {
+//         width: 20rem;
+//     }
+
+//     .content {
+//         height: 49vh;
+//     }
+
+//     .footer span {
+//         font-size: 12px;
+//         margin-left: 0rem;
+//     }
+
+//     .footer {
+//         background-color: transparent !important;
+//         position: sticky;
+//     }
+// }
+
+
+
+.nextBtnSelected {
+    padding: 10px !important;
+}
+.nextBtn{
+    padding: 10px !important;
+}
+
+.container {
+    width: 100% !important;
+}
+
+.item-card-title {
+    font-size: 1rem;
+}
+
+.show-items {
+    display: block;
+}
+
+.hide-items {
+    display: none;
+}
+
+.flex-container-div {
+    display: flex;
+}
+
+.flex-margin-left {
+    margin-left: auto;
+}
+
+.card .card {
+    margin: 5px 0 !important;
+    box-shadow: -8px 8px 14px 0 rgba(47, 47, 30, 0.5) !important;
+}
+
+.received-card {}
+
+.accepted-card {}
+
+.order-header {
+    background-color: #e6e6e6;
+}
+
+.btn-primary-custom {
+    background-color: #b387ff !important;
+    border-color: #b387ff !important;
+}
+
+.match-height {
+    margin-top: 3.5%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.catelog-name {
+    top: 0 !important;
+}
+
+//.......................New Css...........................
+
+.backimg {
+    padding: 0;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background: #00267B;
+}
+
+.container-fluid {
+    // height: 100vh;
+    position: absolute;
+    padding: 0;
+    z-index: 1;
+
+    img {
+        padding-top: 180px;
+    }
+}
+
+.tab-content {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header {
+    height: auto;
+    background: #00267B;
+    margin-right: 0 !important;
+
+    .title img {
+        border-radius: 10px;
+        border: 3px solid #D9D9D9;
+        color: #FFF;
+        font-family: Mitr;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        // height: auto;
+        text-align-last: center;
+        padding: 5px;
+        margin: 8px;
+        width: 13vw;
+        text-align: center;
+    }
+
+    .nextBtn {
+        // border-radius: 12px;
+        border-radius: 0.35rem;
+        background: #FFF;
+        color: #1560BD;
+        font-family: Mitr;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        height: auto;
+        padding: 6px;
+        margin: 15px;
+        width: 8rem;
+        text-align: center;
+        margin-left: 0px !important;
+        margin-right: 5px !important;
+    }
+
+    .updateBtn {
+        border-radius: 12px;
+        background: rgba(42, 107, 188, 0.90);
+        color: #FFF;
+        font-family: Mitr;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        height: auto;
+        padding: 12px;
+        margin: 6px;
+        width: 12rem;
+    }
+
+    .lockBtn {
+        border-radius: 11px;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.10) 100%), rgba(204, 123, 0, 0.90);
+        font-size: 10px;
+        fill: #fff;
+        width: 5rem !important;
+    }
+
+    .logoutBtn {
+        //background: url('assets/images/Logout.png');
+        border-radius: 11px;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.15) 100%), #A00000;
+        font-size: 10px;
+        fill: #fff;
+        width: 5rem !important;
+        svg{
+            height: -webkit-fill-available;
+        }
+    }
+}
+
+.content {
+    background: #D9D9D9;
+    height: 81vh;
+    margin-bottom: 5px;
+    overflow: auto;
+}
+
+.upBtn {
+    border-radius: 19px;
+    height: auto;
+    border: 3px solid #1560BD;
+    background: #FFF;
+    width: 80.69%;
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.card {
+    border-radius: 19px;
+    background: #FFF;
+    width: 21rem;
+    height: auto;
+    margin: 10px !important;
+
+    .dataI {
+        img {
+            padding: 16px 16px 10px 16px !important;
+            height: 180px;
+            width: 300px;
+            border-radius: 14px;
+        }
+
+        label {
+            color: #1560BD;
+            font-family: Mitr;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+        }
+    }
+}
+
+.card1 {
+    padding: 0px !important;
+    text-align: -webkit-center;
+    margin-left: 0;
+}
+
+span {
+    color: #FFF;
+    font-family: Mitr;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 5rem;
+}
+
+.mr {
+    margin-right: 30px;
+    padding: 0;
+}
+
+.footer {
+    background-color: #00267b !important;
+}
+
+.selectedComp {
+    .row {
+        width: max-content;
+        padding: 18px;
+    }
+
+    label {
+        color: #fff;
+    }
+}
+
+.nav-item {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.nav {
+    margin-left: 5.5rem;
+    flex-wrap: nowrap;
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .header .updateBtn {
+        font-size: 12px;
+        height: auto;
+        padding: 7px;
+        margin: 0px 6px 0px 6px;
+        width: 7.5rem;
+    }
+
+    .header {
+        height: 5vh;
+        background: #00267B;
+        margin-right: 0 !important;
+    }
+
+    .upBtn {
+        height: auto;
+        margin-top: 20px;
+        padding: 5px;
+        width: 93vw;
+    }
+
+    .card {
+        width: 20rem;
+        height: 14.5rem;
+    }
+
+    .excol {
+        width: 0;
+    }
+
+    .header .title {
+        font-size: 13px;
+        height: 45px;
+        padding: 6px;
+        /* margin: 22px; */
+        width: 85px;
+    }
+
+    .nav {
+        margin-left: 3rem;
+    }
+
+    .header .nextBtn {
+        font-size: 8px;
+        margin: 7px;
+        width: 4rem;
+    }
+
+    .selectedComp {
+        margin-left: -35px;
+    }
+
+    .selectedComp .row {
+        padding-left: 0px;
+    }
+
+    .selectedComp label {
+        font-size: 10px;
+    }
+
+    .loglockbtn {
+        padding-right: 0px;
+        margin-left: 2rem;
+    }
+
+    .content {
+        height: 37.9vh;
+        overflow: auto;
+    }
+
+    .footer span {
+        font-size: 12px;
+        margin-left: 0rem;
+    }
+
+    .mr {
+        margin-right: 25px;
+    }
+
+    .footer {
+        background-color: transparent !important;
+        position: sticky;
+    }
+}
+
+// @media (min-width: 993px) and (max-width: 1024px) {
+//     .header .updateBtn {
+//         font-size: 17px;
+//         height: auto;
+//         padding: 8px;
+//         margin: 4px;
+//         width: 10rem;
+//     }
+
+//     .match-height {
+//         margin-top: 4.7%;
+//     }
+
+//     .upBtn {
+//         height: auto;
+//         margin-top: 20px;
+//         padding: 5px;
+//     }
+
+//     .card {
+//         width: 16rem;
+//         height: auto;
+//     }
+
+//     .card .dataI img {
+//         height: 180px;
+//         width: 241px;
+//     }
+
+//     .excol {
+//         width: 0;
+//     }
+
+//     .header .title {
+//         font-size: 12px;
+//         height: 46px;
+//         padding: 12px;
+//         // margin: 20px;
+//         width: 94px;
+//     }
+
+//     .nav {
+//         margin-left: 1.5rem;
+//     }
+
+//     .selectedComp .row {
+//         font-size: 12px;
+//         padding-left: 0px !important;
+//     }
+
+//     .header .nextBtn {
+//         padding: 9px;
+//         font-size: 14px;
+//         margin: 5px;
+//         width: 7rem;
+//         margin-left: -20px;
+//     }
+
+//     .header .lockBtn {
+//         width: 5rem !important;
+//         margin-right: 10px !important;
+//     }
+
+//     .loglockbtn {
+//         padding-right: 0px;
+//         padding-left: 40px;
+//     }
+
+//     .content {
+//         height: 65vh;
+//         overflow: auto;
+//     }
+
+//     .footer span {
+//         font-size: 12px;
+//         margin-left: 0rem;
+//     }
+
+//     .footer {
+//         background-color: transparent !important;
+//         position: sticky;
+//     }
+// }
+
+// @media (min-width: 1025px) and (max-width: 1280px) {
+//     .header .updateBtn {
+//         font-size: 20px;
+//         height: auto;
+//         padding: 5px;
+//         margin: 4px;
+//         width: 12rem;
+//     }
+
+//     .header {
+//         height: 8.5vh;
+//     }
+
+//     .nav {
+//         margin-left: 4.5rem;
+//     }
+
+//     .excol {
+//         width: 16%;
+//     }
+
+//     .header .title {
+//         font-size: 23px;
+//         height: 60px;
+//         padding: 16px;
+//         // margin: 20px;
+//         width: 160px;
+//     }
+
+//     .header .nextBtn {
+//         font-size: 17px;
+//         width: 8rem;
+//     }
+
+//     .upBtn {
+//         height: auto;
+//         margin-top: 0;
+//         padding: 5px;
+//         align-self: center;
+//     }
+
+//     .card {
+//         width: 20rem;
+//     }
+
+//     .content {
+//         height: 49vh;
+//     }
+
+//     .footer span {
+//         font-size: 12px;
+//         margin-left: 0rem;
+//     }
+
+//     .footer {
+//         background-color: transparent !important;
+//         position: sticky;
+//     }
+
+//     .selectedComp .row {
+//         font-size: 12px;
+//     }
+
+//     .match-height {
+//         margin-top: 4.4%;
+//     }
+// }
+
+@media (max-width: 1920px) {
+    .header {
+        height: 6vh;
+    }
+
+    .header .title img {
+        width: 11vw;
+    }
+
+    .header .nextBtn {
+        font-size: 20px;
+        width: 11rem;
+        margin-top: 6px;
+    }
+    .header .nextBtnSelected {
+        font-size: 20px !important;
+        width: 11rem !important;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 2.5%;
+    }
+    .match-height-full-screen{
+        margin-top: 3%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+}
+
+@media (max-width: 1680px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title img {
+        width: 10vw;
+    }
+
+    .header .nextBtn {
+        font-size: 20px;
+        width: 11rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 3.4%;
+    }
+    .match-height-full-screen{
+        margin-top: 4%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+}
+
+@media (max-width: 1600px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title {
+        width: 10vw;
+        font-size: 22px;
+    }
+
+    .header .nextBtn {
+        font-size: 20px;
+        width: 10.5rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 2.7%;
+    }
+    .match-height-full-screen {
+        margin-top: 3.5%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+}
+
+@media (max-width: 1440px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title {
+        width: 10vw;
+        font-size: 22px;
+    }
+
+    .header .nextBtn {
+        font-size: 16px;
+        width: 8.5rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 3%;
+    }
+    .match-height-full-screen {
+        margin-top: 4%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+
+    .selectedComp {
+        margin-left: -71px;
+        font-size: 14px;
+    }
+
+    .loglockbtn {
+        margin-left: 70px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title {
+        width: 10vw;
+        font-size: 22px;
+    }
+
+    .header .nextBtn {
+        font-size: 16px;
+        width: 8.5rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 4%;
+    }
+    .match-height-full-screen {
+        margin-top: 4.8%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+
+    .selectedComp {
+        margin-left: -60px;
+        font-size: 14px;
+    }
+
+    .loglockbtn {
+        margin-left: 60px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .header {
+        height: 8.5vh;
+    }
+
+    .header .title img {
+        width: 10vw;
+        font-size: 22px;
+    }
+
+    .header .nextBtn {
+        font-size: 16px;
+        width: 8rem;
+        margin-top: 6px;
+    }
+    .header .nextBtnSelected{
+        font-size: 16px !important;
+        width: 8rem !important;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 5rem !important;
+        height: 2.5rem;
+    }
+
+    .header .logoutBtn {
+        width: 5rem !important;
+        height: 2.5rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 3.3%;
+    }
+
+    .match-height-full-screen {
+        margin-top: 4.3%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+
+    .selectedComp {
+        margin-left: -50px;
+        font-size: 12px;
+    }
+
+    .loglockbtn {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title img{
+        // padding: 10px;
+        // margin: 0;
+        width: 10vw;
+        // font-size: 17px;
+        // height: 45px;
+    }
+
+    .header .nextBtn {
+        font-size: 14px;
+        width: 7.2rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 4%;
+    }
+
+    .match-height-full-screen {
+        margin-top: 5.1%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 3.5rem;
+    }
+
+    .selectedComp {
+        margin-left: -96px;
+        font-size: 14px;
+    }
+
+    .loglockbtn {
+        margin-left: 96px;
+    }
+}
+
+@media only screen and (max-width: 1280px) and (max-height: 960px){
+    .match-height-full-screen {
+        margin-top: 4.8%;
+    }
+  }
+
+@media (max-width: 1024px) {
+    .header {
+        height: 7vh;
+    }
+
+    .header .title {
+        padding: 8px;
+        width: 10vw;
+        font-size: 14px;
+        height: 35px;
+    }
+
+    .header .nextBtn {
+        font-size: 12px;
+        width: 6rem;
+        margin-top: 6px;
+    }
+
+    .header .lockBtn {
+        width: 6rem !important;
+        height: 2.3rem;
+    }
+
+    .header .logoutBtn {
+        width: 6rem !important;
+        height: 2.3rem;
+    }
+
+    .selectedComp .row {
+        font-size: larger;
+    }
+
+    .match-height {
+        margin-top: 3%;
+    }
+
+    .match-height-full-screen {
+        margin-top: 4.5%;
+    }
+
+    .upBtn {
+        height: fit-content;
+    }
+
+    .mr {
+        .updateBtn {
+            font-size: 22px;
+        }
+    }
+
+    .nav {
+        margin-left: 2.5rem;
+    }
+
+    .selectedComp {
+        margin-left: -53px;
+        font-size: 10px;
+    }
+
+    .loglockbtn {
+        margin-left: 53px;
+    }
+}
